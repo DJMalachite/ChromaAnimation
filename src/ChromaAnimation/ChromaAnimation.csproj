@@ -1,10 +1,24 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
     <PropertyGroup>
+        <Version>1.0.1</Version>
         <TargetFramework>netstandard2.1</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <LangVersion>latest</LangVersion>
     </PropertyGroup>
 
+    <PropertyGroup>
+        <Authors>Diogo Trindade</Authors>
+        <Company>Diogo Trindade</Company>
+        <Description>Reader for Razer's Chroma animation files</Description>
+        <Copyright>Copyright (c) 2023 Diogo Trindade</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/diogotr7/ChromaAnimation</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/diogotr7/ChromaAnimation</RepositoryUrl>
+        <PackageTags>razer, chroma, sdk, reader, rgb, keyboard</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <IncludeSymbols>true</IncludeSymbols>
+        <DebugType>portable</DebugType>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    </PropertyGroup>
 </Project>

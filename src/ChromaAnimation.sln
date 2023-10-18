@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromaAnimation", "ChromaAnimation\ChromaAnimation.csproj", "{42512E1B-9EDB-47BB-A4B9-566DD4482B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberpunkChromaExtractor", "CyberpunkChromaExtractor\CyberpunkChromaExtractor.csproj", "{2C2F43BB-ED5D-4529-84FD-3B3D2259875F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromaAnimation.Tests", "ChromaAnimation.Tests\ChromaAnimation.Tests.csproj", "{BBCC23D2-F745-4BF6-A8A3-C22C8F5320C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42512E1B-9EDB-47BB-A4B9-566DD4482B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42512E1B-9EDB-47BB-A4B9-566DD4482B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42512E1B-9EDB-47BB-A4B9-566DD4482B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42512E1B-9EDB-47BB-A4B9-566DD4482B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2F43BB-ED5D-4529-84FD-3B3D2259875F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2F43BB-ED5D-4529-84FD-3B3D2259875F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2F43BB-ED5D-4529-84FD-3B3D2259875F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2F43BB-ED5D-4529-84FD-3B3D2259875F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCC23D2-F745-4BF6-A8A3-C22C8F5320C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCC23D2-F745-4BF6-A8A3-C22C8F5320C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCC23D2-F745-4BF6-A8A3-C22C8F5320C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCC23D2-F745-4BF6-A8A3-C22C8F5320C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
